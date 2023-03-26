@@ -1,0 +1,6 @@
+/// @description
+
+// 
+
+npcNoEffectTimer = 0;
+

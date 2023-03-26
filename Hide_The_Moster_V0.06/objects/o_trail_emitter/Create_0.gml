@@ -1,0 +1,4 @@
+/// @description
+// 
+
+trailTimer = 0;
