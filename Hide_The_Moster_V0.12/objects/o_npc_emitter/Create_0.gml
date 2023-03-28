@@ -1,0 +1,6 @@
+/// @description
+
+// 
+
+npcGenerateTime = 0;
+
