@@ -1,0 +1,4 @@
+/// @description
+
+splashTimer = 0;
+
